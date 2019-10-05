@@ -8,6 +8,7 @@ It's simple, click on Hello App, Create an account, Give your travel path and se
 You can find the backend code [here](https://github.com/gopavasanth/Hello) 
 Also, we have a very supportive technical team, Feel free to join us and ask any questions. 
 
+## Install
 In the project directory, you can run:
 
 ```
